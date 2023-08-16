@@ -4,14 +4,14 @@
   ![ github_gif ](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif) 
   ![](https://william-renaldy.com/ghpvc/?username=Suriyakumarvijayanayagam&color=green) 
   
-  <p align="left"> <a href="https://twitter.com/william_renaldy" target="blank"><img src="https://img.shields.io/twitter/follow/william_renaldy?logo=twitter&style=for-the-badge" alt="william_renaldy" /></a> </p> 
+  <p align="left"> <a href="https://twitter.com/suriya_sk273" target="blank"><img src="https://img.shields.io/twitter/follow/william_renaldy?logo=twitter&style=for-the-badge" alt="Suriyakumar" /></a> </p> 
   
   -  🔭 I’m currently studying in  KPR Institute of Engineering and Technology 
   
   -  🌱 I’m currently learning  Artificial Intelligence and Data Science
   
   -  👨‍💻 All of my projects are available at [ [https://suriyakumarvijayanayagam.io/portfolio/](https://suriyakumarvijayanayagam.github.io/Portfolio/) ]
-  -  📫 How to reach me suriyakumar.vijayanayagam.a@gmail.com
+  -  📫 How to reach me suriyakumar.vijayanayagam@gmail.com
   
   -  ⚡️ AI Enthusiast
   
