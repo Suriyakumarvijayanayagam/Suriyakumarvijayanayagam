@@ -10,7 +10,7 @@
   
   -  🌱 I’m currently learning  Artificial Intelligence and Data Science
   
-  -  👨‍💻 All of my projects are available at [ [https://william-renaldy.github.io/portfolio/](https://suriyakumarvijayanayagam.github.io/Portfolio/) ]
+  -  👨‍💻 All of my projects are available at [ [https://suriyakumarvijayanayagam.io/portfolio/](https://suriyakumarvijayanayagam.github.io/Portfolio/) ]
   -  📫 How to reach me suriyakumar.vijayanayagam.a@gmail.com
   
   -  ⚡️ AI Enthusiast
