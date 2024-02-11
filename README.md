@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suriya kumar </h1> 
   <h3 align="center">Student and an AI Enthusiast</h3> 
   
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   
   -  🔭 I’m currently studying in  KPR Institute of Engineering and Technology 
   
