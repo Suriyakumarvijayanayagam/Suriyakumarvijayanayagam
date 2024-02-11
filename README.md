@@ -1,9 +1,26 @@
 <h1 align="center">Hi 👋, I'm Suriya kumar </h1> 
   <h3 align="center">Student and an AI Enthusiast</h3> 
   
-  ![ github_gif ](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif) 
-  ![](https://william-renaldy.com/ghpvc/?username=Suriyakumarvijayanayagam&color=green) 
   
+  +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
   
   
   -  🔭 I’m currently studying in  KPR Institute of Engineering and Technology 
